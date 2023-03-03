@@ -1,2 +1,4 @@
 # ComputacaoGraficaProjeto-SOF
- Desenvolvimento de um jogo na Godot.
+
+<img src="./Thumb.gif">
+Modelagem e Desenvolvimento de um jogo na Godot.
